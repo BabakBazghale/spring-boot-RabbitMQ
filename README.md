@@ -7,7 +7,7 @@ ___
 
 ___
 
-# Prerequisites For Running Application
+##  Prerequisites For Running Application
 
 * `mvn clean package` - produces artifact and build a docker image
 
@@ -15,6 +15,6 @@ ___
 
 ___
 
-##Access To RabbitMQ Management Interface
+## Access To RabbitMQ Management Interface
 
 http://localhost:15672
